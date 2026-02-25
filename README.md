@@ -1,4 +1,4 @@
-##name_matching
+## name_matching
 
 Check Names in two columns and compare them and tells you how similar or otherwise they matched using fuzzy match.
 
